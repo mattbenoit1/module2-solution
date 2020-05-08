@@ -26,9 +26,9 @@ section>h2 {
     width: 230px;
     text-align: center;
     font-style: Times;
-    font-size: 24px;
+    font-size: 25px;
     font-weight: bold;
-    height: 45px;
+    height: 40px;
     padding-top: 10px;
 }
 
@@ -42,7 +42,7 @@ section.Beef>h2 {
 }
 
 section.Sushi>h2 {
-    background-color: #e5d194;
+    background-color: yellow;
 }
 
 section>p {
